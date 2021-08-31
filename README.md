@@ -15,3 +15,4 @@
 * D12： 數值型特徵-補缺失值與標準化
 * D13： 常用的 DataFrame 操作
 * D14： EDA_correlation 相關係數簡介
+* D14： EDA from Correlation 探索式數據分析
