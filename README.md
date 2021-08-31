@@ -23,3 +23,4 @@
 * D20： Heatmap & Grid-plot
 * D21： 模型初體驗 Logistic Regression
 * D22： 特徵工程簡介
+* D23： 數值型特徵 - 去除偏態
