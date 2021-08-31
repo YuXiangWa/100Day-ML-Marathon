@@ -17,3 +17,4 @@
 * D14： EDA from Correlation 相關係數簡介
 * D15： EDA from Correlation 探索式數據分析
 * D16： 不同數值範圍間的特徵如何檢視 繪圖與樣式Kernel Density Estimation (KDE)
+* D17： EDA_把連續型變數離散化
