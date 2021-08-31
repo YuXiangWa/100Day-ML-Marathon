@@ -15,4 +15,5 @@
 * D12： 數值型特徵-補缺失值與標準化
 * D13： 常用的 DataFrame 操作
 * D14： EDA from Correlation 相關係數簡介
-* D14： EDA from Correlation 探索式數據分析
+* D15： EDA from Correlation 探索式數據分析
+* D16： 不同數值範圍間的特徵如何檢視 繪圖與樣式Kernel Density Estimation (KDE)
