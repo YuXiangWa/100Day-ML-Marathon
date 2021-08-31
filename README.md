@@ -21,3 +21,4 @@
 * D18： 把連續型變數離散化
 * D19： Subplots
 * D20： Heatmap & Grid-plot
+* D21： 模型初體驗 Logistic Regression
