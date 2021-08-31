@@ -20,3 +20,4 @@
 * D17： EDA_把連續型變數離散化
 * D18： 把連續型變數離散化
 * D19： Subplots
+* D20： Heatmap & Grid-plot
