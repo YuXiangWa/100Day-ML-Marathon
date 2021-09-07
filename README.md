@@ -39,3 +39,4 @@
 * D36： 評估指標選定
 * D37： Regression 模型
 * D38： Regression 模型-程式碼
+* D39： LASSO, Ridge Regression
