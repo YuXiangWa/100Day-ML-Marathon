@@ -40,3 +40,5 @@
 * D37： Regression 模型
 * D38： Regression 模型-程式碼
 * D39： LASSO, Ridge Regression
+* D40： LASSO, Ridge Regression - 程式碼
+
